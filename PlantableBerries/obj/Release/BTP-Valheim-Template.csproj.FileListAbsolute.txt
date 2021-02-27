@@ -1,0 +1,2 @@
+D:\Visual Projects\repos\PlantableBerries\obj\Release\BTP-Valheim-Template.csprojAssemblyReference.cache
+D:\Visual Projects\repos\PlantableBerries\obj\Release\BTP-Valheim-Template.csproj.CoreCompileInputs.cache
